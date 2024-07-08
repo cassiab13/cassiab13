@@ -1,5 +1,5 @@
 ## 🚀 About me
-Olá! Meu nome é Cassia e atualmente estou cursando o 5º semestre do curso de Engenharia de Software. Estou sempre em busca de aprender novas habilidades e aprimorar meu conhecimento em desenvolvimento de software. 
+Olá! Meu nome é Cassia e atualmente estou cursando o 6º semestre do curso de Engenharia de Software. Estou sempre em busca de aprender novas habilidades e aprimorar meu conhecimento em desenvolvimento de software. 
 
 ## 🛠 Skills
 
